@@ -7,3 +7,6 @@ A simple weather dashboard application that provides current weather details and
 - CSS
 - JavaScript
 - OpenWeatherMap API
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/bf7c7d4b-c990-4db9-928f-1b8e923b88a8)
